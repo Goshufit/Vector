@@ -1,9 +1,14 @@
 {
-    "dataBase1": {
-        "firstName": "",
-
-        "jobTitle": {
-            "jobTitle": ""
+    "dataBase1": [
+        {
+            "firstName": "monkey",
+            "id": "1",
+            "jobTitle": "what?"
+        },
+        {
+            "firstName": "monkey",
+            "id": "2",
+            "jobTitle": "what?"
         }
-    }
+    ]
 }

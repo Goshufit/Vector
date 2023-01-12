@@ -1,10 +1,14 @@
 {
-    "dataBase2": {
-        "lastUpdated": "",
-    
-        "lastName": {
+    "dataBase2": [
+        {
+            "id": "1",
+            "lastUpdated": "",
+            "lastName": ""
+        },
+        {
+            "id": "2",
+            "lastUpdated": "",
             "lastName": ""
         }
-    }
-    
+    ]
 }

@@ -1,5 +1,12 @@
 {
-    "dataBase3": {
-        "startDate": ""
-    }
+    "dataBase3": [
+        {
+            "id": "1",
+            "startDate": ""
+        },
+        {
+            "id": "2",
+            "startDate": ""
+        }
+    ]
 }
